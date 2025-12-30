@@ -313,7 +313,7 @@ cargo tarpaulin --out html
 
 如果你有任何疑问，可通过以下方式沟通：
 - GitHub Discussions：https://github.com/Ricardo-shuo-liu/veo/discussions
-- 邮件：contributors@veo-lang.org
+- 邮件：13838152117@139.com
 
 再次感谢你的贡献，让 Veo 变得更好！
 
