@@ -314,7 +314,7 @@ All contributors who comply with the standards will be listed in the repository'
 
 If you have any questions, you can communicate via the following channels:
 - GitHub Discussions: https://github.com/Ricardo-shuo-liu/veo/discussions
-- Email: contributors@veo-lang.org
+- Email: 13838152117@139.com
 
 Thank you again for your contributions to make Veo better!
 
